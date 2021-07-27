@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2bVvv1vPm1vlf/8PoOTY5YzvlVWb7safge3EGNcPllj3KvbykSEG2kCRVO9SmMR1akwDuX5Ti675WHephvOaog==",
+  "success": true,
+  "projectFilePath": "S:\\Projets Visual studio\\LogParserIIS\\LogParserIIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Megumin\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

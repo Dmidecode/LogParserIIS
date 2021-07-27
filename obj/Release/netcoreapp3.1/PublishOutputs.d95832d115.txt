@@ -1,0 +1,6 @@
+C:\Users\Megumin\Desktop\LogParserIIS.exe
+C:\Users\Megumin\Desktop\LogParserIIS.dll
+C:\Users\Megumin\Desktop\LogParserIIS.deps.json
+C:\Users\Megumin\Desktop\LogParserIIS.runtimeconfig.json
+C:\Users\Megumin\Desktop\LogParserIIS.pdb
+C:\Users\Megumin\Desktop\CommandLine.dll

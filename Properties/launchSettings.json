@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LogParserIIS": {
+      "commandName": "Project",
+      "commandLineArgs": "--in=\"PlanningDossier\" -v"
+    }
+  }
+}

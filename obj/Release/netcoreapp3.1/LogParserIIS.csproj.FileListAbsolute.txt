@@ -1,0 +1,15 @@
+S:\Projets Visual studio\LogParserIIS\bin\Release\netcoreapp3.1\LogParserIIS.exe
+S:\Projets Visual studio\LogParserIIS\bin\Release\netcoreapp3.1\LogParserIIS.deps.json
+S:\Projets Visual studio\LogParserIIS\bin\Release\netcoreapp3.1\LogParserIIS.runtimeconfig.json
+S:\Projets Visual studio\LogParserIIS\bin\Release\netcoreapp3.1\LogParserIIS.runtimeconfig.dev.json
+S:\Projets Visual studio\LogParserIIS\bin\Release\netcoreapp3.1\LogParserIIS.dll
+S:\Projets Visual studio\LogParserIIS\bin\Release\netcoreapp3.1\LogParserIIS.pdb
+S:\Projets Visual studio\LogParserIIS\bin\Release\netcoreapp3.1\CommandLine.dll
+S:\Projets Visual studio\LogParserIIS\obj\Release\netcoreapp3.1\LogParserIIS.csprojAssemblyReference.cache
+S:\Projets Visual studio\LogParserIIS\obj\Release\netcoreapp3.1\LogParserIIS.AssemblyInfoInputs.cache
+S:\Projets Visual studio\LogParserIIS\obj\Release\netcoreapp3.1\LogParserIIS.AssemblyInfo.cs
+S:\Projets Visual studio\LogParserIIS\obj\Release\netcoreapp3.1\LogParserIIS.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\LogParserIIS\obj\Release\netcoreapp3.1\LogParserIIS.csproj.CopyComplete
+S:\Projets Visual studio\LogParserIIS\obj\Release\netcoreapp3.1\LogParserIIS.dll
+S:\Projets Visual studio\LogParserIIS\obj\Release\netcoreapp3.1\LogParserIIS.pdb
+S:\Projets Visual studio\LogParserIIS\obj\Release\netcoreapp3.1\LogParserIIS.genruntimeconfig.cache
